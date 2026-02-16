@@ -39,7 +39,7 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ### 2. Ejercicios Prácticos e Integración (2 horas)
 
-**📓 Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-2_Ejercicios_Visualizacion.ipynb)
+**📓 Notebook:** [![M1-2_Ejercicios_Visualizacion](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-2_Ejercicios_Visualizacion.ipynb)
 
 **Contenido:**
 - 2.1 Visualización de conjuntos de datos genéricos
