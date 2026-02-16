@@ -74,7 +74,7 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ### 4. Ejercicios Prácticos e Integración (2 horas)
 
-**📓 Notebook:** `M3_Ejercicios_Limpieza_Preparacion.ipynb` *(Próximamente)*
+**📓 Notebook:** [![M1-4_Ejercicios_Limpieza](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-4_Ejercicios_Limpieza.ipynb)
 
 **Contenido:**
 - 4.1 Limpieza y preprocesamiento
