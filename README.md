@@ -74,7 +74,7 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ### 4. Ejercicios Prácticos e Integración (2 horas)
 
-**📓 Notebook:** [![M1-4_Ejercicios_Limpieza](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-4_Ejercicios_Limpieza.ipynb)
+**📓 Notebook:** [![M1-4_Ejercicios_Limpieza](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-6_Ejercicios_Limpieza.ipynb)
 
 **Contenido:**
 - 4.1 Limpieza y preprocesamiento
@@ -86,7 +86,7 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ### 5. Validación y Evaluación de Modelos (1 hora)
 
-**📄 Material teórico:** `M5-Evaluacion.pdf` *(Próximamente)*
+**📄 Material teórico:** [`M1-5_Evaluacion.pdf`](M1-5_Evaluacion.pdf)
 
 **Contenido:**
 - 5.1 Partición de datos y validación
@@ -96,7 +96,7 @@ Establecer las bases conceptuales y metodológicas de la minería de datos como 
 
 ### 6. Ejercicios Prácticos e Integración (1 hora)
 
-**📓 Notebook:** `M5_Ejercicios_Evaluacion.ipynb` *(Próximamente)*
+**📓 Notebook:** [![M1-6_Ejercicios_Validacion](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husseinlopez/diplomadoIA/blob/main/M1-6_Ejercicios_Validacion.ipynb)
 
 **Contenido:**
 - 6.1 Validación de modelo simple
@@ -135,7 +135,7 @@ diplomado-ia/
 ├── M1-3_Limpieza.pdf                       # Teoría: Limpieza 
 ├── M1-4_Ejercicios_Limpieza.ipynb          # Práctica: Limpieza (próximamente)
 ├── M1-5_Evaluacion.pdf                     # Teoría: Evaluación (próximamente)
-└── M1-6_Ejercicios_Evaluacion.ipynb        # Práctica: Evaluación (próximamente)
+└── M1-6_Ejercicios_Validacion.ipynb        # Práctica: Evaluación (próximamente)
 ```
 
 ---
